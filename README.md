@@ -79,7 +79,9 @@ terraform apply
 ## Hitting ALB DNS 
 
 Once the deployment is completed, hit the DNS of ALB shown in the output and you can view the Apache Web server page on the browser.
+http://dev-alb-1896605175.us-east-1.elb.amazonaws.com/
 
+![aws-terraform-demo](Apache2_output.png)
 
 ## For SSL
 
